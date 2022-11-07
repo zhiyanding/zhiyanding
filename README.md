@@ -1,5 +1,4 @@
-I am a Morrey visiting assistant professor in the Department of Mathematics, University of California, Berkeley, hosted by Prof. Lin Lin. 
-Before joining Berkeley, I received my Ph.D. degree in Mathematics from University of Wisconsin-Madison under the direction of Qin Li.
+I am a Morrey visiting assistant professor in the Department of Mathematics, University of California, Berkeley. 
 
 I work on applied and computational mathematics. I am interested in numerical analysis, machine learning, and quantum computing.
 
